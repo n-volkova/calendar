@@ -131,6 +131,7 @@ export default {
             font-size: 35px;
             line-height: 1;
             cursor: pointer;
+            user-select: none;
         }
         .nav-title {
             font-size: 20px;
